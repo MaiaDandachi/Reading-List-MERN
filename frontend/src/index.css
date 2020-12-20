@@ -1,0 +1,22 @@
+main {
+  min-height: 80vh;
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.4rem;
+  padding: 0.7rem 0;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.List-Group {
+  width: 25rem;
+  display: block;
+  margin: 0 auto;
+}
